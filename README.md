@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GladiusRegis
+- 👋 Hi, I’m Arkadius
 - 👀 I’m interested in Big Data, data science, cyber security, machine learning
 - 🌱 I’m currently learning python, PostgreSQL
 - 💞️ I’m looking to collaborate on  people who deal with python and databases.
